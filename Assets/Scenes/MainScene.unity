@@ -254,7 +254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad1d2e58d4d622746839ae0626885411, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 4
+  speed: 3.2
 --- !u!95 &470029220
 Animator:
   serializedVersion: 3
@@ -314,7 +314,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 470029217}
-  smoothing: 0.1
+  smoothing: 1
   cameraMin: {x: -12.24, y: -2.84}
   cameraMax: {x: 7.24, y: 11.84}
 --- !u!20 &519420031
